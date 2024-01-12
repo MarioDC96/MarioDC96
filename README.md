@@ -1,13 +1,12 @@
-
-##  🏄‍♂️ On the road for became Full Stack Developer
+## 🏄‍♂️ let's go write code
 
 <p align="left">
     <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=1000&pause=1000&color=F7771F&repeat=false&random=false&width=435&lines=Mario+Di+Cristofano" alt="Typing SVG" /></a>
- </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=1886F7&repeat=false&random=false&width=435&lines=Mario+Di+Cristofano" alt="Typing SVG" /></a> 
+</p>
 <p align="left">
  <a href="https://git.io/typing-svg">
-     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=F7771F&random=false&width=435&lines=Always+Learning;for+became+a+Full+Stack+Developer" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=1886F7&random=false&width=435&lines=Always+Learning;Full+Stack+Developer;New+Challenges" alt="Typing SVG" /></a>
  </p>
 
 ---
@@ -23,5 +22,3 @@
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <br />
-
-
